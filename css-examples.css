@@ -1,0 +1,19 @@
+html {
+    background: salmon;
+}
+
+/* Target classes with "." */
+.align-right {
+    text-align: right;
+}
+
+/* Target IDs with "#" */
+#fourth-li {
+    color: red;
+    font-weight: bold;
+}
+
+/*
+IDs are more specific than classes.
+Classes are more specific than elements.
+*/

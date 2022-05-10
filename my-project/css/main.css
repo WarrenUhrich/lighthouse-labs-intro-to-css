@@ -1,0 +1,13 @@
+html {
+    background: salmon;
+}
+
+img {
+    width: 100px;
+    height: auto;
+    float: right;
+    /* In text, use
+    floats to allow
+    text to wrap around
+    images.  */
+}
