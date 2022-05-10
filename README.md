@@ -7,8 +7,8 @@
 * [X] How to add CSS to a Web Page
 * [X] Selectors
 * [X] Basic CSS Rules
-* [ ] Box Model
-* [ ] Flexbox Basics
+* [X] Box Model
+* [X] Flexbox Basics
 
 ## Building Blocks of a Web Page
 
