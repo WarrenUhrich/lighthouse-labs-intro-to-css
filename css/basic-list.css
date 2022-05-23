@@ -1,0 +1,45 @@
+html {
+    background: salmon;
+}
+
+/*
+ * Cascading Stylesheet
+ * 
+ * With equal specificity, the last
+ * rule always wins; otherwise most
+ * specific wins.
+
+ * IDs are more specific than classes.
+ * Classes are more specific than elements.
+ */
+
+ul li {
+    color: red;
+}
+
+ul li {
+    color: green;
+}
+
+li {
+    color: blue;
+    font-size: 30px;
+}
+
+li {
+    color: darkgoldenrod;
+}
+
+/* Target by ID: # */
+#js-element {
+    color: chartreuse;
+}
+
+/* Target by Class:  */
+.text-right {
+    text-align: right;
+}
+
+.pink-text {
+    color: pink;
+}
