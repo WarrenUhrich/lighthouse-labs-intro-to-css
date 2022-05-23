@@ -1,0 +1,17 @@
+html {
+    background: pink;
+}
+
+nav ul {
+    list-style: none;
+    padding-left: 0;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+nav a {
+    text-decoration: none;
+}
