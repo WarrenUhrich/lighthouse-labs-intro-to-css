@@ -1,6 +1,6 @@
 # Lighthouse Labs | Introduction to CSS
 
-[GitHub Repository and Branch](https://github.com/WarrenUhrich/lighthouse-labs-intro-to-css/tree/2022.06.20-web-ft-east-30may2022) | [Vimeo Video](#coming-soon)
+[GitHub Repository and Branch](https://github.com/WarrenUhrich/lighthouse-labs-intro-to-css/tree/2022.06.20-web-ft-east-30may2022) | [Vimeo Video](https://vimeo.com/722278500/e15bde318e)
 
 * [X] CSS' Place on the Web
 * [X] What is CSS?
