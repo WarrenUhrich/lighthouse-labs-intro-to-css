@@ -4,8 +4,8 @@
 * [X] What is CSS?
 * [X] HTML Basics
 * [X] Semantic HTML
-* [ ] How to add CSS to a Web Page
-* [ ] Selectors
-* [ ] Basic CSS Rules
-* [ ] Box Model
+* [X] How to add CSS to a Web Page
+* [X] Selectors
+* [X] Basic CSS Rules
+* [X] Box Model
 * [ ] Flexbox Basics

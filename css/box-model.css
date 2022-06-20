@@ -1,0 +1,31 @@
+
+h1 {
+    display: block;
+
+    /* Border-box: width and height INCLUDE padding and border now! */
+    box-sizing: border-box;
+
+    background-color: bisque;
+
+    /* Content */
+    width: 400px;
+    height: 100px;
+
+    /* Padding */
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+
+    /* Border */
+    border-top: 32px solid red;
+    border-right: 32px solid yellow;
+    border-bottom: 32px solid blue;
+    border-left: 32px solid green;
+
+    /* Margin */
+    margin-top: 64px;
+    margin-right: auto; /* auto on left/right can centre your BLOCK element (horizontally) */
+    margin-bottom: 64px;
+    margin-left: auto;
+}
