@@ -8,4 +8,4 @@
 * [X] Selectors
 * [X] Basic CSS Rules
 * [X] Box Model
-* [ ] Flexbox Basics
+* [X] Flexbox Basics

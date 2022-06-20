@@ -1,0 +1,18 @@
+/* . means class name! */
+.color-red {
+    text-align: center;
+    color: red;
+}
+
+/* # means ID name! */
+#web-site-navigation {
+    list-style: none; /* No bullets! */
+
+    padding: 0; /* Fight browser defaults! */
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    /* gap: 8px; */
+}
