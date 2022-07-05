@@ -1,0 +1,15 @@
+html {
+    background: salmon;
+}
+
+/* CSS comments! Can be many lines.*/
+li {
+    color: green;
+    font-weight: bold;
+}
+
+/* Cascading StyleSheets */
+/*
+ - The last rule wins.
+ - Specificity beats the previous rule.
+*/
