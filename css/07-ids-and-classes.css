@@ -1,0 +1,27 @@
+html {
+    color: black;
+    background: salmon;
+}
+
+#id-heading {
+    text-decoration: underline;
+    text-transform: lowercase;
+}
+
+#class-heading {
+    text-transform: uppercase;
+    color: midnightblue;
+}
+
+/* Careful about being TOO specific! */
+/* h2#class-heading.italic-font {
+
+} */
+
+.dark-font {
+    color: rgb(109, 53, 0);
+}
+
+.italic-font {
+    font-style: italic;
+}
