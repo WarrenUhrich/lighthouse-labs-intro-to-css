@@ -6,6 +6,9 @@ html {
 h1 {
     background: white;
 
+    /* Width and Height now INCLUDE padding and border. */
+    box-sizing: border-box;
+
     /* Content Area */
     width: 180px;
     height: 80px;
