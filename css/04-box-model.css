@@ -1,0 +1,30 @@
+html {
+    color: black;
+    background: salmon;
+}
+
+h1 {
+    background: white;
+
+    /* Content Area */
+    width: 180px;
+    height: 80px;
+
+    /* Padding */
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+
+    /* Border */
+    border-top: 32px solid red;
+    border-right: 32px solid green;
+    border-bottom: 32px solid blue;
+    border-left: 32px solid yellow;
+
+    /* Margin */
+    margin-top: 32px;
+    margin-right: 32px;
+    margin-bottom: 32px;
+    margin-left: 32px;
+}
