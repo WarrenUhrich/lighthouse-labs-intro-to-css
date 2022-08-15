@@ -1,0 +1,18 @@
+ul {
+    list-style: none; /* No bullets! */
+
+    display: flex; /* Add display flex to the PARENT. */
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+ul li {
+    padding: 16px;
+    background-color: darkblue;
+}
+
+nav a {
+    color: cyan;
+    text-decoration: none;
+}
