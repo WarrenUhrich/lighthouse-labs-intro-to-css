@@ -1,3 +1,7 @@
-li {
+li:nth-child(3) { /* Wins because it is more specific! */
     color: purple;
+}
+
+li {
+    color: green;
 }
