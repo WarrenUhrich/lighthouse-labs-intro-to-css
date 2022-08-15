@@ -2,8 +2,8 @@
 
 * [X] CSS' Place on the Web
 * [X] What is CSS?
-* [ ] HTML Basics
-* [ ] Semantic HTML
+* [X] HTML Basics
+* [X] Semantic HTML
 * [ ] How to add CSS to a Web Page
 * [ ] Selectors
 * [ ] Basic CSS Rules
