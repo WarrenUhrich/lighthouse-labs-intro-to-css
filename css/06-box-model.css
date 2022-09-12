@@ -1,0 +1,29 @@
+h1 {
+    color: black;
+
+    /* box-sizing: content-box; /* Standard box model... HARD TO CALCULATE WIDTHS / HEIGHTS! */
+    box-sizing: border-box;
+
+    /* Content */
+    width: 500px;
+    height: 300px;
+    background-color: white;
+
+    /* Padding */
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+
+    /* Border */
+    border-top: solid 32px blue;
+    border-right: solid 32px red;
+    border-bottom: solid 32px green;
+    border-left: solid 32px yellow;
+
+    /* Margin */
+    margin-top: 32px;
+    margin-right: 32px;
+    margin-bottom: 32px;
+    margin-left: 32px;
+}
