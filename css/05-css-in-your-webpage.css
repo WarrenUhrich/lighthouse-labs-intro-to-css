@@ -1,0 +1,10 @@
+ul li {
+    color: yellow;
+    font-weight: bold;
+}
+
+/* More specific always wins... */
+/* If the specificity is the same, the last rule wins */
+li {
+    color: green;
+}
