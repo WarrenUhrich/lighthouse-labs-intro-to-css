@@ -1,0 +1,17 @@
+nav ol {
+    display: flex;
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+nav li {
+    background-color: black;
+    padding: 16px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}

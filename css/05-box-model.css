@@ -1,0 +1,30 @@
+h1 {
+    /* box-sizing: content-box; */
+    box-sizing: border-box;
+
+    /* Content (Width / Height) */
+    width: 300px;
+    height: 200px;
+
+    /* Padding */
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+
+    background: salmon;
+
+    /* Border */
+    border-top: solid red 32px;
+    border-right: solid green 32px;
+    border-bottom: solid blue 32px;
+    border-left: solid yellow 32px;
+
+    /* Margin */
+    margin-top: 32px;
+    margin-right: 32px;
+    /* margin-right: auto; Can be used to horizontally centre */
+    margin-bottom: 32px;
+    margin-left: 32px;
+    /* margin-left: auto; Can be used to horizontally centre */
+}
