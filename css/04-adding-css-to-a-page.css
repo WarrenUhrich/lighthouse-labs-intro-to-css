@@ -1,0 +1,23 @@
+/*
+ 1. Specificity (Most specific rule wins)
+ 2. Last Rule Wins (if Specificity is Equal)
+*/
+
+/* id="cool-heading" */
+#cool-heading {
+    color: green;
+}
+
+body h1 {
+    color: black;
+    background: salmon;
+}
+
+h1 {
+    color: white;
+}
+
+/* class="bold-text" */
+.bold-text {
+    font-weight: bold;
+}
