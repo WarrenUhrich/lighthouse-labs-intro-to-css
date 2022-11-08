@@ -1,5 +1,7 @@
 # Lighthouse Labs | Introduction to CSS
 
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-intro-to-css/tree/2022.11.08-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/768712729/f9b304a279)
+
 * [X] CSS' Place on the Web
 * [X] What is CSS?
 * [X] HTML Basics
