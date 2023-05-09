@@ -1,11 +1,11 @@
 # Lighthouse Labs | Introduction to CSS
 
-* [ ] CSS' Place on the Web
-* [ ] What is CSS?
-* [ ] HTML Basics
-* [ ] Semantic HTML
-* [ ] How to add CSS to a Web Page
-* [ ] Selectors
-* [ ] Basic CSS Rules
-* [ ] Box Model
+* [X] CSS' Place on the Web
+* [X] What is CSS?
+* [X] HTML Basics
+* [X] Semantic HTML
+* [X] How to add CSS to a Web Page
+* [X] Selectors
+* [X] Basic CSS Rules
+* [X] Box Model
 * [ ] Flexbox Basics

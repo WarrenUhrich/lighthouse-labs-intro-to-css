@@ -1,0 +1,30 @@
+html {
+    background: salmon;
+}
+
+h1 {
+    background-color: white;
+
+    /* CONTENT */
+    width: 400px;
+    height: 250px;
+
+    /* PADDING - includes background colour */
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+
+    /* BORDER */
+    border-top: 64px solid red;
+    border-right: 64px solid yellow;
+    border-bottom: 64px solid blue;
+    border-left: 64px solid green;
+
+    /* MARGIN */
+    margin-top: 64px;
+    margin-right: 64px;
+    margin-bottom: 64px;
+    margin-left: 64px;
+
+}

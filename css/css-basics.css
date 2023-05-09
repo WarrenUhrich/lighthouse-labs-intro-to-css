@@ -1,0 +1,25 @@
+/* * {
+    background-color: salmon;
+} */
+
+/* Highest specificity wins */
+/* Last rule wins */
+
+li {
+    color: purple;
+}
+
+#id-heading { /* One of the most specific is ID selector */
+    font-family: Arial, sans-serif;
+}
+
+/* Classes are more specific than element selector */
+/* Classes are less specific than ID */
+
+.italic-text {
+    font-style: italic;
+}
+
+.bold-text {
+    font-weight: bold;
+}

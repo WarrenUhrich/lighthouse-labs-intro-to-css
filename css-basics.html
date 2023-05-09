@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CSS Basics</title>
+
+        <link rel="stylesheet" href="./css/css-basics.css">
+    </head>
+    <body>
+        <h1>CSS Basics</h1>
+        <p class="italic-text">How do we include CSS in a web page?</p>
+        <ul>
+            <li style="color: green;">Inline</li>
+            <li class="italic-text">
+                <style>
+                    li { color: red; }
+                </style>
+                Style Element
+            </li>
+            <li class="bold-text">Link a File</li>
+        </ul>
+        <h2>IDs and Classes</h2>
+        <h3 id="id-heading">IDs</h3>
+        <p>
+            Each unique ID can only be used once per page.
+        </p>
+        <h3>Classes</h3>
+        <p class="italic-text bold-text">
+            Each class can be used many times per page.
+        </p>
+    </body>
+</html>
