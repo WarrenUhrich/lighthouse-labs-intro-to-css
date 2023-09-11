@@ -1,0 +1,17 @@
+/* html {
+     background: red;
+} */
+
+li:first-child {
+    color: green;
+}
+
+/**
+ * Rules of CSS - WHO WINS?
+ * 
+ * 1. If the selectors are of equal weight,
+ * the LAST RULE wins.
+ * 
+ * 2. Specificity - the most specific rule
+ * always wins.
+ */

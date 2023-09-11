@@ -1,0 +1,34 @@
+/* html {
+    background-color: red;
+} */
+
+h1 {
+    box-sizing: border-box;
+    background-color: yellow;
+
+    /* CONTENT */
+    width: 200px;
+    height: 200px;
+
+    /* PADDING (INCLUDES the background colour!) */
+    /* padding: 32px;
+    padding: 32px 32px;
+    padding: 32px 32px 32px;
+    padding: 32px 32px 32px 32px; */
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+
+    /* BORDER */
+    border-top: 32px solid green;
+    border-right: 32px solid blue;
+    border-bottom: 32px solid red;
+    border-left: 32px solid purple;
+
+    /* MARGIN */
+    margin-top: 32px;
+    margin-right: 32px;
+    margin-bottom: 32px;
+    margin-left: 32px;
+}
