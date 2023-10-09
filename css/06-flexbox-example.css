@@ -1,0 +1,16 @@
+/* html { background-color: red; } */
+
+#nav-list { /* # is used to target an ID */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.nav-list-item { /* . is used to target a class */
+    padding: 16px;
+}
+
+.bold-text {
+    font-weight: bold;
+}

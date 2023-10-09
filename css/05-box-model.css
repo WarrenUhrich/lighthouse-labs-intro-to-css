@@ -1,0 +1,39 @@
+h1 {
+
+    /* box-sizing: content-box; */
+    box-sizing: border-box;
+
+    background-color: yellow;
+
+    /* CONTENT: WIDTH / HEIGHT */
+    width: 200px;
+    height: 150px;
+
+    /* PADDING: the area around our text/content */
+    /* It is INCLUSIVE of background-color. */
+
+    padding-top: 64px;
+    padding-right: 64px;
+    padding-bottom: 64px;
+    padding-left: 64px;
+
+    /* BORDER: the area around our padding! */
+    /* Can have its own color, style, width. */
+
+    border-top: 64px solid blue;
+    border-right: 64px solid green;
+    border-bottom: 64px solid purple;
+    /* border-right: 64px dotted green; */
+    /* border-bottom: 64px double purple; */
+    border-left: 64px solid red;
+
+    /* MARGIN: the space outside of our element. */
+    /* It is invisible, it is the space our element should be from other elements.*/
+
+    margin-top: 64px;
+    /* margin-right: 64px; */
+    margin-right: auto;
+    margin-bottom: 64px;
+    /* margin-left: 64px; */
+    margin-left: auto;
+}

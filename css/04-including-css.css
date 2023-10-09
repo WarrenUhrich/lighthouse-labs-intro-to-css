@@ -1,0 +1,21 @@
+/* html {
+    background: red;
+} */
+
+/** 
+ * WHY!?
+ * 
+ * RULES OF CSS - WHO WINS IN CONFLICTS?
+ * 
+ * 1. If the selectors are of equal weights,
+ *    the LAST RULE wins. ORDER MATTERS.
+ *
+ * 2. Specificity - the most SPECIFIC rule
+ *    ALWAYS wins. IDs are more specific than classes.
+ */
+
+li:first-child {
+    font-family: Arial;
+    font-weight: bold;
+    color: green;
+}
