@@ -1,2 +1,11 @@
-# lighthouse-labs-intro-to-css
-Lighthouse Labs "intro to CSS" lecture.
+# Lighthouse Labs | Intro to CSS
+
+* [ ] CSS' Place on the Web
+* [ ] What is CSS?
+* [ ] HTML Basics
+* [ ] Semantic HTML
+* [ ] How to add CSS to a Web Page
+* [ ] Selectors
+* [ ] Basic CSS Rules
+* [ ] Box Model
+* [ ] Flexbox Basics
