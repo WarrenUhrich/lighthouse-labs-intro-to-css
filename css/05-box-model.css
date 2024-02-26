@@ -1,0 +1,38 @@
+* {
+    background: salmon;
+}
+
+h1 {
+    font-family: Arial;
+    box-sizing: border-box;
+
+    /* Content */
+    /*
+        by default, width and height affect the CONTENT area.
+        
+        if you use box-sizing: border-box; we know the INCLUSIVE width/height (including padding and border)
+    */
+    width: 300px;
+    height: 200px;
+
+    /* Padding */
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background: white; /* Only affects content + padding! */
+    /* background-image: url();
+    background-repeat: repeat; */
+
+    /* Border */
+    border-top: 20px solid red;
+    border-right: 20px solid yellow;
+    border-bottom: 20px double green;
+    border-left: 20px dashed blue;
+
+    /* Margin */
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}

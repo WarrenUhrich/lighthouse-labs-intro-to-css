@@ -1,0 +1,35 @@
+/*
+
+WHEN THERE ARE CONLFICTS, WHICH STYLE WINS!?
+
+CASCADING STYLESHEETS.
+
+1. The most specific rule wins.
+2. The same specificity; the LAST RULE WINS.
+
+*/
+
+/* ul li { /* Select LIs inside of ULs
+    color: red;
+} */
+
+/* ul li:first-child { /* Select FIRST LI inside of ULs
+    color: red;
+} */
+
+#external-css { /* ID selector */
+    color: red;
+}
+
+.bold-li { /* Class selector */
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/*
+
+See more info on your selections here:
+@link https://kittygiraudel.github.io/selectors-explained/?s=ul%2520li%253Afirst-child
+@link https://selectors.info/
+
+*/

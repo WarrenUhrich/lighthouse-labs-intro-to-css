@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS in a Web Page</title>
+
+    <link rel="stylesheet" href="/css/04-css-in-a-web-page.css">
+
+</head>
+<body>
+    <h1>CSS in a Web Page</h1>
+    <p>The 3 ways we can include CSS code in our web page:</p>
+    <ul>
+        <li id="external-css">
+            External (its own .css file)
+            <!-- 
+                Pros:
+                * Re-usability
+                * Separation of concerns
+                    * HTML file is for HTML
+                    * CSS file is for CSS
+                * Can be cached by the browser
+                    * Faster loading when visiting other pages on the same site
+                Cons:
+                * Not all in one document(?)
+             -->
+        </li>
+        <li class="bold-li">
+            <style>
+                li {
+                    color: blue;
+                }
+                h1 {
+                    color: green;
+                }
+            </style>
+            Style element (&lt;style&gt;)
+            <!-- 
+                Pros:
+                * Can group page-specific styles
+                * We maintain full power of CSS selectors
+                Cons:
+                * Easy to mis-place or become organized
+             -->
+        </li>
+        <li class="bold-li" style="color: cyan;">
+            In-line (as an HTML attribute)
+            <!-- 
+                Pros:
+                * Style is always organized with the element it affects
+                * Can be used in a pinch
+                Cons:
+                * Readability suffers
+                * Not very re-usable / DRY
+                * Time-consuming
+                * Very hard to maintain
+             -->
+        </li>
+    </ul>
+</body>
+</html>
